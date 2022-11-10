@@ -1,2 +1,4 @@
-# Melt2002.github.io
-melt's website ig
+# Melt
+hi, im melt
+this is a boring website
+this is all in a readme.md file for some reason maybe ill actually do smth idk
